@@ -110,6 +110,6 @@ Este trabalho faz parte do meu portfólio de projetos práticos em análise de d
 
 ---
 
-Autor: Victor Nascimento
-Área: Análise de Dados
+Autor: Victor Nascimento <br>
+Área: Análise de Dados <br>
 Tecnologia principal: SQL
